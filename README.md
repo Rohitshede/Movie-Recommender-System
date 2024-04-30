@@ -16,3 +16,7 @@ This project implements a movie recommender system using Natural Language Proces
 - Python 3.x
 - NLTK
 - Streamlit
+
+## Dataset
+The dataset used for this project can be found at Kaggle. Please download the dataset and place it in the data/ directory of this project before running the application.
+- Link: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
